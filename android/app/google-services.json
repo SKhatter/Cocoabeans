@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637179097871",
+    "project_id": "cocoabeans-a8395",
+    "storage_bucket": "cocoabeans-a8395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637179097871:android:989cbdb95a0e975119447a",
+        "android_client_info": {
+          "package_name": "com.example.cocoabeans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBptd5cXwpXJrYbMmHBwDGKe_P56nCSUIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
